@@ -82,4 +82,4 @@ Find me and connect with me on my networks:
 | :--- | :--- |
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristhian_Molina-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/cristhian-molina-waldrop-16815515b) |
 | **Email** | [![Email](https://img.shields.io/badge/Email-cristhian.waldrop@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:cristhian.waldrop@gmail.com) |
-| **GitHub** | [![GitHub](https://img.shields.io/badge/GitHub-TuUsuarioDeGitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/CristhianWaldrop) |
+| **GitHub** | [![GitHub](https://img.shields.io/badge/GitHub-CristhianWaldrop-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/CristhianWaldrop) |
