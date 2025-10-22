@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristhian-molina-waldrop-16815515b)
 ---
 
-I am a **Full-Stack Developer** with **4 years of experience**  across the entire development cycle for robust web and mobile applications.
+I am a **Full-Stack Developer** with **5 years of experience**  across the entire development cycle for robust web and mobile applications.
 
 As an Intermediate Full-Stack Developer at Teravision Technologies, I designed and maintained custom solutions for clients in the **U.S., Europe, and Latin America**.
 
